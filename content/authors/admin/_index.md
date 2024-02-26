@@ -25,7 +25,7 @@ organizations:
     url: https://ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-I am a third year PhD student at University of California Sandiego advised by Misha Belkin.
+I am a third year PhD student at University of California San Diego.
 
 
 # Social Networking
